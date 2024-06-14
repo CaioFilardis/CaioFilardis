@@ -22,19 +22,10 @@
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
-    <table>
-        <tr>
-            <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-        </tr>
-        <tr>
-            <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-        </tr>
-        <tr>
-            <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-        </tr>
-            <img align="center" alt="Douglas4GR_Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-        </td>
-    </table>
+    <img align="center" alt="Douglas4GR_Icon" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="Douglas4GR_Icon" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" alt="Douglas4GR_Icon" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+     <img align="center" alt="Douglas4GR_Icon" height="20" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
 
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
