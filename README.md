@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou o Caio, um desenvolvedor Java, apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, me chamo Caio, um desenvolvedor Java, apaixonado pelo que faz!</h1>
 <p align="center">
                                             <!-- instagram -->
 <!-- <a href="https://instagram.com/dicasparadevs"><img src="https://img.shields.io/badge/-@dicasparadevs_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
