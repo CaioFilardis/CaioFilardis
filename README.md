@@ -16,9 +16,9 @@
 
 - 👨🏻‍💻 &nbsp; Aos 18 anos, trabalhava como autônomo, até sofrer uma acidente sério, que me levou ficar 06 meses de cama. Neste período sabático, pude adquiri o hábito da leitura, olhando dentro de mim, comecei a avaliar meus interesses e vontades até me deparar com o mundo da programação. Nunca imaginei(e nem sabia que era posspível) que pudesse ser capaz de contruir códigos(à época esquisitos) na vida. Assistia vídeos e mais vídeos no youtube sobre esse <b>UNIVERSO</b>, até que me vi pela primeira vez, codando.
 - 💚 &nbsp; Conforme fui adquirindo conhecimento na área, decidi cursar uma graduação, foi aí que a paizão se confirmou e com isso descobri que tinha uma determinação: <b>SER UM ESPECIALISTA NAQUILO QUE FAÇO</b>, para me destacar e ajudar os dev iniciantes por meio da minha competênica. Desde então, desenvolvo desenvolver projetos e busco por mais, estudando dia após dia, para chegar a onde meu coração anseia. Fico extremamente feliz quando consigo cumprir com os objetivos, e, por isso, gosto tanto de fazer isso.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web e mobile em <b>JAVA</b>. Utilizo a java puro e estudo suas ferramentas (<b>JavaServerPages(JSP)</b>, <b>JavaServerFaces(JSF)</b> & <b>REST API com Spring boot)</b> para desenvolver em ambas as frentes e para além disso.
+- 🚀 &nbsp; Atualmente, tenho como foco principal na minha carreira, áreas de desenvolvimento web e mobile em <b>JAVA</b>. Estudo as ferramentas (<b>JavaServerPages(JSP)</b>, <b>JavaServerFaces(JSF)</b> & <b>REST API com Spring boot)</b> para desenvolver em ambas as frentes, e muito mais.
 - 🏎 &nbsp; Sou apaixonado por leitura, costumo ler livros técnicos, de alta-performance e ficção científica no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
-- 💵 &nbsp; Também gosto muito de investimentos, do mercado financeiro e de economia.
+- 💵 &nbsp; Também gosto de realizar análise de negócio, ter que sempre estar atento não só as tendências tecnológicas, mas também ao que as pessoas mais anciam.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
