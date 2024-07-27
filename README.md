@@ -1,7 +1,7 @@
 <h1>👋 &nbsp;Olá, me chamo Caio, um desenvolvedor Java, apaixonado pelo que faz!</h1>
 <p align="center">
                                             <!-- instagram -->
-<a href="https://www.instagram.com/caiofilardis/?next=%2F"><img src="https://img.shields.io/badge/-@dicasparadevs_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/caiofilardis/?next=%2F"><img src="https://img.shields.io/badge/-@caiofilardis_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
                                             <!-- portfolio -->
 <!-- <a href="https://dicasparadevs.com.br"><img src="https://img.shields.io/badge/-dicasparadevs.com.br-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a> -->
                                             <!-- youtube -->
