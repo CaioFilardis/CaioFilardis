@@ -7,21 +7,18 @@
                                             <!-- youtube -->
 <!-- <a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-dicasparadevs-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a> -->
                                             <!-- linkedin -->
-<a href="https://www.linkedin.com/in/caio-filardis-382a20313"><img src="https://img.shields.io/badge/-Caio%20Filadis%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="www.linkedin.com/in/caio-filardis1891"><img src="https://img.shields.io/badge/-Caio%20Filadis%20-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+                                            <!-- Gmail -->
 <a href="mailto:caio.filardis@hotmail.com"><img src="https://img.shields.io/badge/-caio.filardis@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Comecei a faculdade de Sistemas da informação em 2021, tão logo, após a crise(pandemia, mais ou menos em meados de 2022), em conjunto a faculdade, resolvi cursar um ensino técnico em informática, no mesmo período, ganhei uma oportunidade como aprendiz, auxiliar de escritório em geral, na área de DP(nada a ver com meu ramo, mas o.k ahahaha) de uma empresa de Alimentos LTDA chamada Supermercados Superprix.
-Após 2 meses auxiliando na área de departamento pessoal, fui designado para área de planejamento, onde fui introduzido à análise de negócios da empresa, aprendendo a desenvolver relatórios avançados em Excel e desenvolver dashboards interativos em Power BI. Em pouco mais de 5 meses como aprendiz, foi dado a oportunidade de ser um estagiário de planejamento, e assim foi feito. Lá se passam 7 meses estagiando. Neste intervalo, pude, aprender e mergulhar no mundo da programação. Após este período, fui convidado a estagiar em uma multinacional, Mane do Brasil, na área de Infraestrutura TI, onde encontro-me até então. Nesta empresa, pude aprender mais a fundo e na prática como funciona toda uma infraestrutura TI corporativa.
-Pude conquistar diversas experiências no âmbito administrativo, lógica do negócio e também o campo estrutural tecnológica de uma empresa.
-Em paralelo a isso, desenvolvo sistemas Java, estou me aprofundando cada vez mais, e também realizo projetos freelancers, desenvolvimento web(HTML, CSS e JavaScript).
-No mundo da tecnologia, não me limito apenas a programação, faço com que minhas experiências se complementem ao conhecimentos adquiridos cada dia mais, neste universo tecnológico, que não lhe permite ser obsoleto.
-- 💚 &nbsp; Tenho formação técnica em informática e estou cursando Bacharelado em Sistema de Informação.
-- 🚀 &nbsp; Tenho como ambição ser desenvolvimento  <b>JAVA</b> completo e profissional. Estudo ferramentas como <b>JavaServerPages(JSP)</b>, <b>JavaServerFaces(JSF)</b> para desenvolvimendo se sistemas de alta performance.
-- 🏎 &nbsp; Sou apaixonado por leitura, costumo ler livros técnicos, de alta-performance e ficção científica no meu tempo livre. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
+- 👨🏻‍💻 &nbsp;  Minha jornada na área de tecnologia é como um rio que, após uma grande tempestade, começa a fluir com mais força e direção. Em 2021, mergulhei na faculdade de Sistemas de Informação, como um barco que se lança em águas desconhecidas. A crise da pandemia foi como uma represa que, ao ser rompida em 2022, me impulsionou a explorar novas rotas, levando-me a um curso técnico em informática e a um trabalho como aprendiz adiministrativo em uma empresa de Supermercado alimentos. Nos primeiros meses, eu navegava nas águas do departamento pessoal(DP), um mar que parecia distante do meu destino, mas que, curiosamente, me trouxe novas habilidades. Com o tempo, fui direcionado para o planejamento, onde aprendi a criar mapas e relatórios utilizando ferramentas como Excel e Power BI, como um cartógrafo que desenha o caminho em um território novo. Após cinco meses, fui promovido a estagiário de planejamento, e a cada dia, meu barco se tornava mais ágil e veloz. Es que vem a mim, uma oportunidade de estagiar em uma multinacional, Mane do Brasil, foi como encontrar um oceano vasto, onde pude explorar a infraestrutura de TI corporativa, ampliando meu horizonte. Enquanto navegava por essas águas, também mergulhei no desenvolvimento em Java, como um mergulhador que se aprofunda em recifes de corais, sempre em busca de novas descobertas. Paralelamente, me dediquei a projetos freelancers, construindo sistemas web como um arquiteto que erige edifícios digitais.
+- 💚 &nbsp; Formação técnica em informática e cursando Bacharelado em Sistema de Informação(7° período).
+- 🚀 &nbsp; Minha ambição é me tornar um desenvolvedor  Back End Java, explorando toda um oceano de ferramentas como JSP com servlets, JSF e Spring boot, para criar sistemas de alta performance, enquanto continuo a navegar nesse vasto e fascinante universo tecnológico.
+- 🏎 &nbsp; Além disso, minha paixão pela leitura é como um farol que ilumina meu caminho, guiando-me por mares de conhecimento técnico e histórias de ficção científica que me inspiram e renovam. 
 - 💵 &nbsp; Conhecer a lógica de negócio das empresas, estar atento as tendências tecnológicas, ser um resolvedor de problemas.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
