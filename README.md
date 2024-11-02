@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, me chamo Caio, um desenvolvedor Java, apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, sou o Caio, apaixonado por programação e resolvedor de problemas</h1>
 <p align="center">
                                             <!-- instagram -->
 <a href="https://www.instagram.com/caiofilardis/?next=%2F"><img src="https://img.shields.io/badge/-@caiofilardis_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -15,10 +15,10 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp;  Minha jornada na área de tecnologia é como um rio que, após uma grande tempestade, começa a fluir com mais força e direção. Em 2021, mergulhei na faculdade de Sistemas de Informação, como um barco que se lança em águas desconhecidas. A crise da pandemia foi como uma represa que, ao ser rompida em 2022, me impulsionou a explorar novas rotas, levando-me a um curso técnico em informática e a um trabalho como aprendiz adiministrativo em uma empresa de Supermercado alimentos. Nos primeiros meses, eu navegava nas águas do departamento pessoal(DP), um mar que parecia distante do meu destino, mas que, curiosamente, me trouxe novas habilidades. Com o tempo, fui direcionado para o planejamento, onde aprendi a criar mapas e relatórios utilizando ferramentas como Excel e Power BI, como um cartógrafo que desenha o caminho em um território novo. Após cinco meses, fui promovido a estagiário de planejamento, e a cada dia, meu barco se tornava mais ágil e veloz. Es que vem a mim, uma oportunidade de estagiar em uma multinacional, Mane do Brasil, foi como encontrar um oceano vasto, onde pude explorar a infraestrutura de TI corporativa, ampliando meu horizonte. Enquanto navegava por essas águas, também mergulhei no desenvolvimento em Java, como um mergulhador que se aprofunda em recifes de corais, sempre em busca de novas descobertas. Paralelamente, me dediquei a projetos freelancers, construindo sistemas web como um arquiteto que erige edifícios digitais.
-- 💚 &nbsp; Formação técnica em informática e cursando Bacharelado em Sistema de Informação(7° período).
-- 🚀 &nbsp; Minha ambição é me tornar um desenvolvedor  Back End Java, explorando toda um oceano de ferramentas como JSP com servlets, JSF e Spring boot, para criar sistemas de alta performance, enquanto continuo a navegar nesse vasto e fascinante universo tecnológico.
-- 🏎 &nbsp; Além disso, minha paixão pela leitura é como um farol que ilumina meu caminho, guiando-me por mares de conhecimento técnico e histórias de ficção científica que me inspiram e renovam. 
+- 👨🏻‍💻 &nbsp;  Sou formado como técnico de informática a 2 anos, atuando em diversos setores na área comercial, planejamento e infraestrutura TI. Prezo pela organização tanto na área profissional quanto na pessoal, possuo um ótimo relacionamento interpessoal, sei trabalhar com sobre pressão, não me contento com  um problema não resolvido, missão dada é missão cumprida. Boa capacidade de análise crítica, sempre disposto a aprender e a colaborar..
+- 💚 &nbsp; Em transição de carreira.
+- 🚀 &nbsp; Queor me tornar um desenvolvedor Back End Java, explorando toda um oceano de ferramentas como JSP com servlets, JSF e Spring boot, para criar sistemas de alta performance, um programador completo em Java.
+- 🏎 &nbsp; Além disso, meu amor pela leitura é um hábito que não falta, permitindi-me conhecer e explorar conhecimentos técnicos e histórias que geram insights. 
 - 💵 &nbsp; Conhecer a lógica de negócio das empresas, estar atento as tendências tecnológicas, ser um resolvedor de problemas.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
@@ -48,4 +48,4 @@
 
 <h2>🚀 &nbsp;Um pouco mais sobre o meu perfil</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caiofilardis&show_icons=true&theme=dracula)
+![Caio Filardis](https://github-readme-stats.vercel.app/api?username=caiofilardis&show_icons=true&theme=dracula)
