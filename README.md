@@ -17,7 +17,7 @@
 
 - 👨🏻‍💻 &nbsp;  Sou formado como técnico de informática a 2 anos, atuando em diversos setores na área comercial, planejamento e infraestrutura TI. Prezo pela organização tanto na área profissional quanto na pessoal, possuo um ótimo relacionamento interpessoal, sei trabalhar com sobre pressão, não me contento com  um problema não resolvido, missão dada é missão cumprida. Boa capacidade de análise crítica, sempre disposto a aprender e a colaborar..
 - 💚 &nbsp; Em transição de carreira.
-- 🚀 &nbsp; Queor me tornar um desenvolvedor Back End Java, explorando toda um oceano de ferramentas como JSP com servlets, JSF e Spring boot, para criar sistemas de alta performance, um programador completo em Java.
+- 🚀 &nbsp; Quero me tornar um desenvolvedor Back End Java, explorando toda um oceano de ferramentas como JSP com servlets, JSF e Spring boot, para criar sistemas de alta performance, um programador completo em Java.
 - 🏎 &nbsp; Além disso, meu amor pela leitura é um hábito que não falta, permitindi-me conhecer e explorar conhecimentos técnicos e histórias que geram insights. 
 - 💵 &nbsp; Conhecer a lógica de negócio das empresas, estar atento as tendências tecnológicas, ser um resolvedor de problemas.
 
