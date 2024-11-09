@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, sou o Caio, apaixonado por programação e resolvedor de problemas</h1>
+<h1>👋 &nbsp;Olá, sou o Caio, apaixonado por programação e resoluções de problemas</h1>
 <p align="center">
                                             <!-- instagram -->
 <a href="https://www.instagram.com/caiofilardis/?next=%2F"><img src="https://img.shields.io/badge/-@caiofilardis_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
