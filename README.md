@@ -15,7 +15,7 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp;  Sou formado como técnico de informática a 2 anos, atuando em diversos setores na área comercial, planejamento e infraestrutura TI. Prezo pela organização tanto na área profissional quanto na pessoal, possuo um ótimo relacionamento interpessoal, sei trabalhar com sobre pressão, não me contento com  um problema não resolvido, missão dada é missão cumprida. Boa capacidade de análise crítica, sempre disposto a aprender e a colaborar..
+- 👨🏻‍💻 &nbsp;  Sou formado como técnico de informática a 2 anos, atuando em diversos setores no mercado, como na área comercial, planejamento e infraestrutura TI. Prezo pela organização tanto na rotina profissional, quanto na pessoal. Tenho um ótimo relacionamento interpessoal, sabendo lidar e trabalhar sobre pressão.Não me contento com problemas mal resolvidos, ou pior, não resolvidos, missão dada é missão cumprida, adotei excelência em minha vida em tudo que fizer. Boa capacidade de análise crítica, sempre disposto a aprender e a colaborar. Não tenho problemas em pedir ajuda, e caso saiba nada sobre um determinado assunto ou tarefa, digo: "NÃO SEI, mas vou procurar saber". 
 - 💚 &nbsp; Em transição de carreira.
 - 🚀 &nbsp; Quero me tornar um desenvolvedor Back End Java, explorando toda um oceano de ferramentas como JSP com servlets, JSF e Spring boot, para criar sistemas de alta performance, um programador completo em Java.
 - 🏎 &nbsp; Além disso, meu amor pela leitura é um hábito que não falta, permitindi-me conhecer e explorar conhecimentos técnicos e histórias que geram insights. 
