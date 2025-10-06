@@ -32,7 +32,8 @@ Veja todos os repositórios públicos em:
 https://github.com/CaioFilardis
 
 <h1>📊 Estatísticas Dinâmicas</h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioFilardis&layout=compact&langs_count=7&theme=dracula)](https://github.com/CaioFilardis)
+
+[![Caio Filadis's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioFilardis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/CaioFilardis)
 
 <h1>🎯 Objetivo Profissional</h1>
 Desenvolvedor Java Júnior pronto para contribuir com Código Limpo, Arquitetura Sólida e Soluções Inovadoras. Focado em evoluir para Full-Stack Java, explorando microsserviços e as melhores práticas de desenvolvimento.
