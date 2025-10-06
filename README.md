@@ -32,7 +32,7 @@ Veja todos os repositórios públicos em:
 https://github.com/CaioFilardis
 
 <h1>📊 Estatísticas Dinâmicas</h1>
-<p align="center"> <img src="[https://github-readme-stats.vercel.app/api?username=CaioFilardis&show_icons=true&count_private=true&include_all_commits=true&theme=dracula](https://github.com/CaioFilardis?tab=repositories)" alt="Estatísticas do GitHub" /> </p>
+<p align="center"> ![Caio Filardis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaioFilardis&show_icons=true&count_private=true&include_all_commits=true&theme=dracula) </p>
 
 <h1>🎯 Objetivo Profissional</h1>
 Desenvolvedor Java Júnior pronto para contribuir com Código Limpo, Arquitetura Sólida e Soluções Inovadoras. Focado em evoluir para Full-Stack Java, explorando microsserviços e as melhores práticas de desenvolvimento.
