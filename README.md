@@ -21,19 +21,10 @@ MySQL - PostgreSQL - APIs RESTful - Maven	Bootstrap - AngularJS
 Git - GitHub	Tomcat - Java Swing	
 
 <h1>🚀 Projetos em Destaque</h1>
-Sistema de Gestão Completo com Spring Boot + MySQL
 
-APIs RESTful documentadas em Swagger
-
-Aplicações Desktop em Java Swing
-
-Veja todos os repositórios públicos em:
-
-https://github.com/CaioFilardis
-
-<h1>📊 Estatísticas Dinâmicas</h1>
-
-[![Caio Filadis's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioFilardis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/CaioFilardis)
+- APIs RESTful documentadas em Swagger
+- Aplicações Desktop em Java Swing
+-  Sistema de Gestão Completo com Spring Boot + MySQL
 
 <h1>🎯 Objetivo Profissional</h1>
 Desenvolvedor Java Júnior pronto para contribuir com Código Limpo, Arquitetura Sólida e Soluções Inovadoras. Focado em evoluir para Full-Stack Java, explorando microsserviços e as melhores práticas de desenvolvimento.
